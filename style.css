@@ -1,0 +1,22 @@
+.heading{
+  width: 80%;
+  font-size: 22px;
+  font-family: cursive;
+  color: black;
+}
+body{
+    background-color: lightpink;
+}
+.personalized{
+    font-size: 22px;
+    color: snow;
+}
+#camera{
+    border:2px solid black;
+    width: 300px;
+    height:300px ;
+}
+#obname,#acname{
+    font-size: 22px;
+    color: snow;
+}
